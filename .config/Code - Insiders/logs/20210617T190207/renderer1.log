@@ -1,0 +1,6 @@
+[2021-06-17 19:04:53.147] [renderer1] [error] Failed to execute git
+[2021-06-17 19:05:50.274] [renderer1] [error] Request textDocument/documentHighlight failed with message: Debug Failure. Did not find evaluation scope: Error: Request textDocument/documentHighlight failed with message: Debug Failure. Did not find evaluation scope
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:59:62469
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:59:62763
+	at Immediate.<anonymous> (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:59:63126)
+	at processImmediate (internal/timers.js:461:21)

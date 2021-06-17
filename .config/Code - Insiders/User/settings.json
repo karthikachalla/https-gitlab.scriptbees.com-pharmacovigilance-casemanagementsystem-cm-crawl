@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "python.insidersChannel": "daily",
+    "files.autoSave": "afterDelay",
+    "timeline.excludeSources": [
+        "git-history"
+    ]
+}

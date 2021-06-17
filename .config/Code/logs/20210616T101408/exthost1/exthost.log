@@ -1,0 +1,52 @@
+[2021-06-16 10:14:11.188] [exthost] [info] extension host started
+[2021-06-16 10:14:11.472] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-16 10:14:11.473] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/66/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-16 10:14:11.502] [exthost] [info] ExtensionService#_doActivateExtension geecode.geecode-python {"startup":false,"extensionId":{"value":"geecode.geecode-python","_lower":"geecode.geecode-python"},"activationEvent":"onLanguage:python"}
+[2021-06-16 10:14:11.502] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode/extensions/geecode.geecode-python-2019.5.10/out/client/extension
+[2021-06-16 10:14:11.860] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-06-16 10:14:11.860] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode/extensions/ms-toolsai.jupyter-2021.6.999406279/out/client/extension
+[2021-06-16 10:14:12.098] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-16 10:14:12.098] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/66/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-06-16 10:14:12.101] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-16 10:14:12.101] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/66/usr/share/code/resources/app/extensions/git/dist/main
+[2021-06-16 10:14:13.044] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-16 10:14:13.044] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/66/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-06-16 10:14:13.186] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-06-16 10:14:13.186] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension
+[2021-06-16 10:14:13.346] [exthost] [info] eager extensions activated
+[2021-06-16 10:14:13.479] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-06-16 10:14:13.479] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/66/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-06-16 10:14:13.694] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-06-16 10:14:13.694] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/66/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-06-16 10:14:13.706] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-06-16 10:14:13.706] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/66/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-06-16 10:14:13.711] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-06-16 10:14:13.711] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/66/usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-06-16 10:14:13.801] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-16 10:14:13.801] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/66/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-16 10:14:14.288] [exthost] [error] Activating extension ms-python.python failed due to an error:
+[2021-06-16 10:14:14.288] [exthost] [error] Error: command 'python.viewOutput' already exists
+	at _.registerCommand (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:106762)
+	at Object.registerCommand (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:93:20636)
+	at c.registerCommand (/home/user/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:78:170928)
+	at /home/user/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:52:9825
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async Object.t.activateComponents (/home/user/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:52:8610)
+	at async /home/user/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:29:32981
+	at async t.activate (/home/user/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:29:32627)
+	at async Promise.all (index 0)
+[2021-06-16 10:14:55.679] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2021-06-16 10:14:55.679] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/66/usr/share/code/resources/app/extensions/debug-server-ready/dist/extension
+[2021-06-16 10:20:56.146] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-06-16 10:20:56.161] [exthost] [error] TypeError: m.dispose is not a function
+	at Object.I [as dispose] (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:14:4668)
+	at f._deactivate (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:11368)
+	at /snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:9958
+	at Array.map (<anonymous>)
+	at f.deactivateAll (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:9946)
+	at E.terminate (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:93:725)
+	at u (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:31661)
+	at Socket.<anonymous> (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:29463)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2021-06-16 10:20:57.171] [exthost] [info] exiting with code 0

@@ -1,0 +1,15 @@
+WARNING:root:Warning Message
+ERROR:root:Error Message
+CRITICAL:root:critical Message
+DEBUG:root:Debug Message
+INFO:root:Info Message
+WARNING:root:Warning Message
+ERROR:root:Error Message
+CRITICAL:root:critical Message
+15-06-2021 10:02:1623774750 PM:INFO:A new request came
+15-06-2021 10:06:1623774978 PM:ERROR:division by zero
+Traceback (most recent call last):
+  File "/home/user/cm-crawl/tests.py", line 7, in <module>
+    print('The result:', x/y)
+ZeroDivisionError: division by zero
+15-06-2021 10:06:1623774996 PM:INFO:A new request came

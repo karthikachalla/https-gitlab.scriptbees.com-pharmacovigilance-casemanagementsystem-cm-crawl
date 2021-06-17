@@ -1,0 +1,33 @@
+[2021-06-16 11:10:22.014] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-06-16 11:22:50.240] [sharedprocess] [warning] Resolved variables received without matching request 61
+[2021-06-16 11:22:50.243] [sharedprocess] [warning] Resolved variables received without matching request 62
+[2021-06-16 11:22:50.249] [sharedprocess] [warning] Resolved variables received without matching request 63
+[2021-06-16 11:22:50.251] [sharedprocess] [warning] Resolved variables received without matching request 64
+[2021-06-16 11:22:50.266] [sharedprocess] [warning] Resolved variables received without matching request 65
+[2021-06-16 11:22:52.232] [sharedprocess] [warning] Resolved variables received without matching request 66
+[2021-06-16 11:22:52.261] [sharedprocess] [warning] Resolved variables received without matching request 67
+[2021-06-16 11:22:52.267] [sharedprocess] [warning] Resolved variables received without matching request 68
+[2021-06-16 11:22:52.270] [sharedprocess] [warning] Resolved variables received without matching request 69
+[2021-06-16 11:22:52.284] [sharedprocess] [warning] Resolved variables received without matching request 70
+[2021-06-16 11:37:43.706] [sharedprocess] [info] Installing extension: jannisx11.batch-rename-extension
+[2021-06-16 11:37:44.244] [sharedprocess] [info] Downloaded extension: jannisx11.batch-rename-extension /home/user/.config/Code/CachedExtensionVSIXs/jannisx11.batch-rename-extension-0.0.4
+[2021-06-16 11:37:44.329] [sharedprocess] [info] Extracted extension to /home/user/.vscode/extensions/.c9a94980-6d0c-4738-89f8-b14443ca48da: jannisx11.batch-rename-extension
+[2021-06-16 11:37:44.332] [sharedprocess] [info] Renamed to /home/user/.vscode/extensions/jannisx11.batch-rename-extension-0.0.4
+[2021-06-16 11:37:44.333] [sharedprocess] [info] Installation completed. jannisx11.batch-rename-extension
+[2021-06-16 11:37:44.347] [sharedprocess] [info] Extensions installed successfully: jannisx11.batch-rename-extension
+[2021-06-16 11:37:44.433] [sharedprocess] [warning] Resolved variables received without matching request 71
+[2021-06-16 11:37:44.435] [sharedprocess] [warning] Resolved variables received without matching request 72
+[2021-06-16 11:37:44.444] [sharedprocess] [warning] Resolved variables received without matching request 73
+[2021-06-16 11:37:44.451] [sharedprocess] [warning] Resolved variables received without matching request 74
+[2021-06-16 11:37:44.452] [sharedprocess] [warning] Resolved variables received without matching request 75
+[2021-06-16 11:37:46.435] [sharedprocess] [warning] Resolved variables received without matching request 76
+[2021-06-16 11:37:46.446] [sharedprocess] [warning] Resolved variables received without matching request 77
+[2021-06-16 11:37:46.460] [sharedprocess] [warning] Resolved variables received without matching request 78
+[2021-06-16 11:37:46.477] [sharedprocess] [warning] Resolved variables received without matching request 79
+[2021-06-16 11:37:46.490] [sharedprocess] [warning] Resolved variables received without matching request 80
+[2021-06-16 11:37:49.293] [sharedprocess] [info] Installing extension: askia.askia-qexml-generator-extension
+[2021-06-16 11:37:49.804] [sharedprocess] [info] Downloaded extension: askia.askia-qexml-generator-extension /home/user/.config/Code/CachedExtensionVSIXs/askia.askia-qexml-generator-extension-1.0.1
+[2021-06-16 11:37:49.923] [sharedprocess] [info] Extracted extension to /home/user/.vscode/extensions/.01cc235f-a74f-47bd-bc2c-b7f8959dd5e9: askia.askia-qexml-generator-extension
+[2021-06-16 11:37:49.927] [sharedprocess] [info] Renamed to /home/user/.vscode/extensions/askia.askia-qexml-generator-extension-1.0.1
+[2021-06-16 11:37:49.928] [sharedprocess] [info] Installation completed. askia.askia-qexml-generator-extension
+[2021-06-16 11:37:49.931] [sharedprocess] [info] Extensions installed successfully: askia.askia-qexml-generator-extension

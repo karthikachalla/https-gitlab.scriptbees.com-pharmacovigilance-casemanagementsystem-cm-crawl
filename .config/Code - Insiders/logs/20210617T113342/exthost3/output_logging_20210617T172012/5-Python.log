@@ -1,0 +1,50 @@
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+> python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+Python interpreter path: /usr/bin/python
+Starting download for Insiders build.
+Downloading https://pvsc.blob.core.windows.net/extension-builds/ms-python-insiders.vsix...
+> python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+Starting Jedi Python language engine.
+> python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> conda --version
+> /usr/bin/python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.prefix)"
+cwd: ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client
+> /usr/bin/python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.prefix)"
+cwd: ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client
+> /usr/bin/python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+cwd: ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client
+> /usr/bin/python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+cwd: ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client
+> /usr/bin/python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client
+> /usr/bin/python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client
+> /usr/bin/python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py site --user-site
+cwd: ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client
+> /usr/bin/python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py site --user-site
+cwd: ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client
+> /usr/bin/python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/completion.py
+> /usr/bin/python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/completion.py
+> python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+Insiders build download complete.
+Installing Insiders... complete.
+Error 2021-06-17 17:22:34: Error while running worker[Worker 1]. undefined
+Error 2021-06-17 17:22:34: Error while running worker[Worker 2]. undefined

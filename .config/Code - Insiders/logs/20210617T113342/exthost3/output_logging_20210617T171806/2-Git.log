@@ -1,0 +1,9 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/user
+> git status -z -u
+> git show --textconv :Documents/Python wesites/demo.py
+> git ls-files --stage -- /home/user/Documents/Python wesites/demo.py
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/user/Documents/Python wesites' failed; ex=Canceled: Canceled

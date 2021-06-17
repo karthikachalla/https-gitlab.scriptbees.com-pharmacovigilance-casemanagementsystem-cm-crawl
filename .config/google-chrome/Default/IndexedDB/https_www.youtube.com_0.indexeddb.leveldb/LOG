@@ -1,0 +1,24 @@
+2021/06/16-10:13:48.361 2106 Reusing MANIFEST /home/user/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/16-10:13:48.362 2106 Recovering log #4
+2021/06/16-10:13:48.366 2106 Reusing old log /home/user/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2021/06/16-10:13:51.250 213c Level-0 table #8: started
+2021/06/16-10:13:51.255 213c Level-0 table #8: 81491 bytes OK
+2021/06/16-10:13:51.258 213c Delete type=0 #4
+2021/06/16-10:13:51.258 213c Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/06/16-10:13:51.435 2143 Level-0 table #10: started
+2021/06/16-10:13:51.436 2143 Level-0 table #10: 13175 bytes OK
+2021/06/16-10:13:51.439 2143 Delete type=0 #7
+2021/06/16-10:13:51.439 2143 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 1401 : 1
+2021/06/16-10:13:51.439 2143 Compacting 1@0 + 1@1 files
+2021/06/16-10:13:51.442 2143 Generated table #11@0: 378 keys, 16239 bytes
+2021/06/16-10:13:51.442 2143 Compacted 1@0 + 1@1 files => 16239 bytes
+2021/06/16-10:13:51.444 2143 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/06/16-10:13:51.444 2143 Delete type=2 #10
+2021/06/16-10:13:51.444 2106 Manual compaction at level-0 from '\x00\x09\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 1401 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/06/16-10:54:30.109 29c8 Compacting 1@1 + 1@2 files
+2021/06/16-10:54:30.114 29c8 Generated table #12@1: 164 keys, 14302 bytes
+2021/06/16-10:54:30.115 29c8 Compacted 1@1 + 1@2 files => 14302 bytes
+2021/06/16-10:54:30.116 29c8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/16-10:54:30.117 29c8 Delete type=2 #8
+2021/06/16-10:54:30.117 29c8 Delete type=2 #11
+2021/06/16-10:54:30.117 29c8 Delete type=2 #5

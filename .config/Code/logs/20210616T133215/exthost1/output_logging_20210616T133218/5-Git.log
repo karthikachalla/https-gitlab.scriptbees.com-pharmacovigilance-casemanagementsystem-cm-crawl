@@ -1,0 +1,12 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/user
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/user/Public/cm-crawl-master/emailread.py
+fatal: your current branch 'master' does not have any commits yet
+Opening repository for path='/home/user' failed; ex=Canceled: Canceled
+Open repository: /home/user
+Opening repository for path='/home/user/Public/cm-crawl-master' failed; ex=Canceled: Canceled

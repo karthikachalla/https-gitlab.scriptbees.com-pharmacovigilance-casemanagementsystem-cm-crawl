@@ -1,0 +1,5 @@
+[Info  - 7:02:15 pm] Pylance language server 2021.6.3-pre.1 (pyright dafa497d) starting
+[Info  - 7:02:15 pm] Server root directory: /home/user/.vscode-insiders/extensions/ms-python.vscode-pylance-2021.6.3-pre.1/dist
+[Error - 7:05:50 pm] Request textDocument/documentHighlight failed.
+  Message: Request textDocument/documentHighlight failed with message: Debug Failure. Did not find evaluation scope
+  Code: -32603 

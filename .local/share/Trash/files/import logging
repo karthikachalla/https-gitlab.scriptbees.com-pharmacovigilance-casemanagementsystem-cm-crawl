@@ -1,0 +1,7 @@
+import logging
+logging.basicConfig(filename='log.txt',level=logging.WARNING)
+logging.debug('Debug Message')
+logging.info('Info Message')
+logging.warning('Warning Message')
+logging.error('Error Message')
+logging.critical('critical Message')

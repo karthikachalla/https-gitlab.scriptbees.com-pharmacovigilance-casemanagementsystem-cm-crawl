@@ -1,0 +1,3 @@
+import logging
+logger=logging.getlogger('read email')
+logger.setlevel(logging.DEBUG)

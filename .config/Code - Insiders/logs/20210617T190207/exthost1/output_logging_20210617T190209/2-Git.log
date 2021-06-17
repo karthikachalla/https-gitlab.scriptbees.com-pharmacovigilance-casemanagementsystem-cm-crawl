@@ -1,0 +1,427 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv HEAD:repository
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git check-ignore -v -z --stdin
+> git rev-parse --git-dir
+Open repository: /home/user
+> git status -z -u
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git show --textconv HEAD:repository
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/tests.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/tests.py
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/README.md
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/README.md
+> git show --textconv :Public/cm-crawl-master/requirements.txt
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/requirements.txt
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv HEAD:log_file.log
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/log_file.log
+> git show --textconv HEAD:txtfile.log
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/txtfile.log
+> git show --textconv HEAD:log_file.log
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/log_file.log
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv HEAD:repository
+> git show --textconv :repository
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git check-ignore -v -z --stdin
+> git branch
+> git reset -q HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git show --textconv HEAD:repository
+> git show --textconv :repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv HEAD:repository
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git show --textconv :README.md
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git cat-file -s a06b6ef6588964e395a2776ba8f99b656a04bd6a
+> git show --textconv :txtfile.log
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/txtfile.log
+> git show --textconv :log_file.log
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/log_file.log
+> git show --textconv :README.md
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git cat-file -s a06b6ef6588964e395a2776ba8f99b656a04bd6a
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n39 -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de^:README.md
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de:README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git show --textconv :repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git show --textconv :README.md
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git cat-file -s a06b6ef6588964e395a2776ba8f99b656a04bd6a
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git show --textconv :repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/user/Public/cm-crawl-master/emailread.py
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv HEAD:repository
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git checkout -q main
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de:README.md
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de^:README.md
+> git show --textconv :repository
+> git show --textconv HEAD:repository
+> git show --textconv HEAD:repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/README.md
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/README.md
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git show --textconv HEAD:repository
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git log --oneline --cherry main...main@{upstream} --
+> git pull --tags origin main
+From https://github.com/karthikachalla/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl
+ * branch            main       -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de:README.md
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de^:README.md
+> git show --textconv HEAD:repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git log --oneline --cherry main...main@{upstream} --
+> git pull --tags origin main
+From https://github.com/karthikachalla/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl
+ * branch            main       -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de:README.md
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de^:README.md
+> git show --textconv HEAD:repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :README.md
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git cat-file -s a06b6ef6588964e395a2776ba8f99b656a04bd6a
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv HEAD:repository
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git log --oneline --cherry main...main@{upstream} --
+> git pull --tags origin main
+From https://github.com/karthikachalla/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl
+ * branch            main       -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de:README.md
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de^:README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git remote add karthikachalla https://github.com/karthikachalla/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl.git
+> git show --textconv HEAD:repository
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git show --textconv :repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git branch
+> git reset -q HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv HEAD:txtfile.log
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/txtfile.log
+> git show --textconv :txtfile.log
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/txtfile.log
+git.getSCMResource.uri file:///home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/txtfile.log
+repo root /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl
+repo root /home/user
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/txtfile.log
+> git show --textconv HEAD:repository
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git show --textconv HEAD:repository
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de:README.md
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de^:README.md
+> git show --textconv HEAD:repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git log --oneline --cherry main...main@{upstream} --
+> git pull --tags origin main
+From https://github.com/karthikachalla/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl
+ * branch            main       -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de:README.md
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de^:README.md
+> git show --textconv HEAD:repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git config --get commit.template
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de:README.md
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de^:README.md
+> git show --textconv HEAD:repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :txtfile.log
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/txtfile.log
+> git cat-file -s f6b1e4e430bed74473119d2922a44a22ebc6667c
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git symbolic-ref --short HEAD
+> git remote add origin https://github.com/karthikachalla/user.git
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de:README.md
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de^:README.md
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git log --oneline --cherry main...main@{upstream} --
+> git pull --tags origin main
+From https://github.com/karthikachalla/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl
+ * branch            main       -> FETCH_HEAD
+> git push origin main:main
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de^:README.md
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de:README.md
+To https://github.com/karthikachalla/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl.git
+   aef94fd..ac88afa  main -> main
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --oneline --cherry main...main@{upstream} --
+> git pull --tags origin main
+From https://github.com/karthikachalla/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl
+ * branch            main       -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de^:README.md
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de:README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+Opening repository for path='/home/user/Public/cm-crawl-master' failed; ex=Canceled: Canceled

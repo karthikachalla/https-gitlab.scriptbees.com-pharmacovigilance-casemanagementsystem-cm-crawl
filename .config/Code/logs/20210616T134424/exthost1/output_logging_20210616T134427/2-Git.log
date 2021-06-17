@@ -1,0 +1,13 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/user
+> git status -z -u
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/user' failed; ex=Canceled: Canceled
+Opening repository for path='/home/user/.ICEauthority' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/user/.bash_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/user/.bash_logout' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/user/.bashrc' failed; ex=Error: spawn ENOTDIR
+Open repository: /home/user
+Opening repository for path='/home/user/.cache' failed; ex=Canceled: Canceled

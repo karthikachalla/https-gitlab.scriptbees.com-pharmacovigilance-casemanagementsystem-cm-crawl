@@ -1,0 +1,37 @@
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+Python interpreter path: /usr/bin/python3
+Starting Pylance language server.
+Starting download for Insiders build.
+Downloading https://pvsc.blob.core.windows.net/extension-builds/ms-python-insiders.vsix...
+> conda --version
+Insiders build download complete.
+Installing Insiders... complete.
+Error 2021-06-16 14:03:36: Error while running worker[Worker 2]. undefined
+Error 2021-06-16 14:03:36: Error while running worker[Worker 1]. undefined
+Error 2021-06-16 14:03:36: Error in prompting to reload, Class name = f, completed in 18292ms, has a falsy return value, , Return Value: undefined [Canceled: Canceled
+	at Object.r [as canceled] (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at /usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:88:8267
+	at Array.forEach (<anonymous>)
+	at dispose (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:88:8215)
+	at w.terminate (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:93:684)
+	at u (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:31806)
+	at Socket.<anonymous> (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:29568)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)]
+Error 2021-06-16 14:03:36: Handling channel failed, Class name = f, completed in 154615ms, has a falsy return value, Arg 1: "daily", Arg 2: true, Return Value: undefined [Canceled: Canceled
+	at Object.r [as canceled] (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at /usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:88:8267
+	at Array.forEach (<anonymous>)
+	at dispose (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:88:8215)
+	at w.terminate (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:93:684)
+	at u (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:31806)
+	at Socket.<anonymous> (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:29568)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)]

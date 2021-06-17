@@ -1,0 +1,14 @@
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+User belongs to experiment group 'NativeNotebookEditor'
+Info 2021-06-16 14:03:39: ZMQ install verified.
+Info 2021-06-16 14:16:04: Process Execution: > /usr/bin/python3 -m pip list
+> /usr/bin/python3 -m pip list
+Info 2021-06-16 14:16:04: Process Execution: > /usr/bin/python3 -m pip list
+> /usr/bin/python3 -m pip list
+Info 2021-06-16 14:16:04: Process Execution: > /usr/bin/python3 -c "import pip"
+> /usr/bin/python3 -c "import pip"
+Info 2021-06-16 14:16:04: Process Execution: > /usr/bin/python3 -c "import pip"
+> /usr/bin/python3 -c "import pip"

@@ -1,0 +1,12 @@
+import logging
+logger = logging.getLogger('Read mail')
+logger.setLevel(logging.DEBUG)
+filehandler=logging.FileHandler('txtfile.log')
+formatter=logging.Formatter('%(asctime)s:%(levelname)s:%(name)s:%(message)s',datefmt='%d-%m-%Y %I:%M:%S %p')
+filehandler.setFormatter(formatter)
+logger.addHandler(filehandler)
+logger.debug('Debug Message')
+logger.info('Info Message')
+logger.warning('Warning Message')
+logger.error('Error Message')
+logger.critical('Critical Message')

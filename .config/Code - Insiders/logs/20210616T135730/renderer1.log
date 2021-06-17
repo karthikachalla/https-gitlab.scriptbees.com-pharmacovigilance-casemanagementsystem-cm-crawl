@@ -1,0 +1,33 @@
+[2021-06-16 15:22:21.444] [renderer1] [error] Server[pid=21070] disconnected unexpectedly: Error: Server[pid=21070] disconnected unexpectedly
+    at b.handleErrorResponse (vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:979:30552)
+    at vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:979:29855
+    at async O.fetchThreads (vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2271:46695)
+[2021-06-16 15:26:14.552] [renderer1] [error] Server[pid=21190] disconnected unexpectedly: Error: Server[pid=21190] disconnected unexpectedly
+    at b.handleErrorResponse (vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:979:30552)
+    at vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:979:29855
+    at async O.fetchThreads (vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2271:46695)
+[2021-06-16 15:53:11.857] [renderer1] [error] Server[pid=21757] disconnected unexpectedly: Error: Server[pid=21757] disconnected unexpectedly
+    at b.handleErrorResponse (vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:979:30552)
+    at vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:979:29855
+    at async O.fetchThreads (vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2271:46695)
+[2021-06-16 15:53:18.263] [renderer1] [error] Server[pid=21805] disconnected unexpectedly: Error: Server[pid=21805] disconnected unexpectedly
+    at b.handleErrorResponse (vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:979:30552)
+    at vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:979:29855
+    at async O.fetchThreads (vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2271:46695)
+[2021-06-16 15:54:18.417] [renderer1] [error] Server[pid=21891] disconnected unexpectedly: Error: Server[pid=21891] disconnected unexpectedly
+    at b.handleErrorResponse (vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:979:30552)
+    at vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:979:29855
+    at async O.fetchThreads (vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2271:46695)
+    at async vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2271:47295
+[2021-06-16 15:54:18.493] [renderer1] [error] Server[pid=21891] disconnected unexpectedly: Error: Server[pid=21891] disconnected unexpectedly
+    at b.handleErrorResponse (vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:979:30552)
+    at vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:979:29855
+    at async O.fetchThreads (vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2271:46695)
+[2021-06-16 16:10:28.468] [renderer1] [error] Server[pid=28468] disconnected unexpectedly: Error: Server[pid=28468] disconnected unexpectedly
+    at b.handleErrorResponse (vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:979:30552)
+    at vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:979:29855
+    at async O.fetchThreads (vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2271:46695)
+[2021-06-16 16:20:49.834] [renderer1] [error] Server[pid=28814] disconnected unexpectedly: Error: Server[pid=28814] disconnected unexpectedly
+    at b.handleErrorResponse (vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:979:30552)
+    at vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:979:29855
+    at async O.fetchThreads (vscode-file://vscode-app/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2271:46695)

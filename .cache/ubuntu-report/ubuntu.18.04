@@ -1,0 +1,81 @@
+{
+  "Version": "18.04",
+  "OEM": {
+    "Vendor": "Dell Inc.",
+    "Product": "Latitude E7470",
+    "Family": "Latitude"
+  },
+  "BIOS": {
+    "Vendor": "Dell Inc.",
+    "Version": "1.27.3"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "4",
+    "Threads": "2",
+    "Cores": "2",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "78",
+    "Stepping": "3",
+    "Name": "Intel(R) Core(TM) i7-6600U CPU @ 2.60GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "1916"
+    }
+  ],
+  "RAM": 16.2,
+  "Disks": [
+    256.1,
+    31.4
+  ],
+  "Partitions": [
+    245.1,
+    30.7
+  ],
+  "Screens": [
+    {
+      "Size": "309mmx174mm",
+      "Resolution": "1920x1080",
+      "Frequency": "60.02"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_IN",
+  "Timezone": "Asia/Kolkata",
+  "Install": {
+    "Media": "Ubuntu 18.04.5 LTS \"Bionic Beaver\" - Release amd64 (20200806.1)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": true,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "5": "console_setup",
+      "8": "wireless",
+      "10": "prepare",
+      "25": "partman",
+      "28": "partman",
+      "34": "start_install",
+      "38": "timezone",
+      "67": "usersetup",
+      "78": "user_done",
+      "230": "done"
+    }
+  }
+}

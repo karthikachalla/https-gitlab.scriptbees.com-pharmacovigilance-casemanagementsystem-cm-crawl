@@ -1,0 +1,63 @@
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Error 2021-06-16 10:23:19: Exception while attempting zmq : [Error: /snap/core/current/usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.22' not found (required by /home/user/.vscode/extensions/ms-toolsai.jupyter-2021.6.999406279/out/client/node_modules/zeromq/prebuilds/linux-x64/electron.napi.glibc.node)
+	at process.func [as dlopen] (electron/js2c/asar_bundle.js:5:1846)
+	at Object.Module._extensions..node (internal/modules/cjs/loader.js:1185:18)
+	at Object.func [as .node] (electron/js2c/asar_bundle.js:5:1846)
+	at Module.load (internal/modules/cjs/loader.js:982:32)
+	at Module._load (internal/modules/cjs/loader.js:823:14)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+	at Function.i._load (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:27790)
+	at Function.E._load (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:24542)
+	at Function.c._load (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:93:59193)
+	at Module.require (internal/modules/cjs/loader.js:1006:19)
+	at v (/snap/code/66/usr/share/code/resources/app/out/vs/loader.js:4:698)
+	at load (/home/user/.vscode/extensions/ms-toolsai.jupyter-2021.6.999406279/out/client/node_modules/node-gyp-build/index.js:21:10)
+	at Object.<anonymous> (/home/user/.vscode/extensions/ms-toolsai.jupyter-2021.6.999406279/out/client/node_modules/zeromq/lib/native.js:6:43)
+	at Module.u._compile (/snap/code/66/usr/share/code/resources/app/out/vs/loader.js:4:1315)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:1155:10)
+	at Module.load (internal/modules/cjs/loader.js:982:32)
+	at Module._load (internal/modules/cjs/loader.js:823:14)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+	at Function.i._load (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:27790)
+	at Function.E._load (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:24542)
+	at Function.c._load (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:93:59193)
+	at Module.require (internal/modules/cjs/loader.js:1006:19)
+	at v (/snap/code/66/usr/share/code/resources/app/out/vs/loader.js:4:698)
+	at Object.<anonymous> (/home/user/.vscode/extensions/ms-toolsai.jupyter-2021.6.999406279/out/client/node_modules/zeromq/lib/index.js:3:16)
+	at Module.u._compile (/snap/code/66/usr/share/code/resources/app/out/vs/loader.js:4:1315)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:1155:10)
+	at Module.load (internal/modules/cjs/loader.js:982:32)
+	at Module._load (internal/modules/cjs/loader.js:823:14)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+	at Function.i._load (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:27790)
+	at Function.E._load (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:24542)
+	at Function.c._load (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:93:59193)
+	at Module.require (internal/modules/cjs/loader.js:1006:19)
+	at v (/snap/code/66/usr/share/code/resources/app/out/vs/loader.js:4:698)
+	at Object.<anonymous> (/home/user/.vscode/extensions/ms-toolsai.jupyter-2021.6.999406279/out/client/extension.js:37:305883)
+	at n (/home/user/.vscode/extensions/ms-toolsai.jupyter-2021.6.999406279/out/client/extension.js:1:186)
+	at d.zmqSupported (/home/user/.vscode/extensions/ms-toolsai.jupyter-2021.6.999406279/out/client/extension.js:90:455554)
+	at d.isSupportedForLocalLaunch (/home/user/.vscode/extensions/ms-toolsai.jupyter-2021.6.999406279/out/client/extension.js:90:455204)
+	at d.supported (/home/user/.vscode/extensions/ms-toolsai.jupyter-2021.6.999406279/out/client/extension.js:90:455114)
+	at Object.t.registerTypes (/home/user/.vscode/extensions/ms-toolsai.jupyter-2021.6.999406279/out/client/extension.js:52:806804)
+	at /home/user/.vscode/extensions/ms-toolsai.jupyter-2021.6.999406279/out/client/extension.js:52:245973
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async /home/user/.vscode/extensions/ms-toolsai.jupyter-2021.6.999406279/out/client/extension.js:37:826672
+	at async t.activate (/home/user/.vscode/extensions/ms-toolsai.jupyter-2021.6.999406279/out/client/extension.js:37:826359)
+	at async Promise.all (index 1)]
+Info 2021-06-16 10:23:19: id is a48ac8c4-a453-430b-a5e9-4d42895e0a18
+Info 2021-06-16 11:04:42: Shutting down notebooks for 1fe1f85e-35a6-4f07-b343-c1b74fbe6f1f
+Info 2021-06-16 11:04:42: Disposing HostJupyterExecution 788a1524-2608-4547-b88f-2a8172410023
+Info 2021-06-16 11:04:42: Disposing super HostJupyterExecution 788a1524-2608-4547-b88f-2a8172410023
+Info 2021-06-16 11:04:42: Disposing HostJupyterExecution 788a1524-2608-4547-b88f-2a8172410023
+Info 2021-06-16 11:04:42: Finished disposing HostJupyterExecution  788a1524-2608-4547-b88f-2a8172410023
+Info 2021-06-16 11:04:42: Disposing HostJupyterExecution 788a1524-2608-4547-b88f-2a8172410023
+Info 2021-06-16 11:04:42: Finished disposing HostJupyterExecution  788a1524-2608-4547-b88f-2a8172410023
+Info 2021-06-16 11:04:42: Getting live share API during dispose HostJupyterExecution 788a1524-2608-4547-b88f-2a8172410023
+Info 2021-06-16 11:04:42: Detaching HostJupyterExecution 788a1524-2608-4547-b88f-2a8172410023
+Info 2021-06-16 11:04:42: Cleaning up server cache 788a1524-2608-4547-b88f-2a8172410023
+Info 2021-06-16 11:04:42: Finished disposing HostJupyterExecution  788a1524-2608-4547-b88f-2a8172410023

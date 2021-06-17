@@ -1,0 +1,22 @@
+User belongs to experiment group 'NativeNotebookEditor'
+Info 2021-06-16 14:00:32: ZMQ install verified.
+Error 2021-06-16 14:00:32: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.vscode/settings.json' (Error: Unable to resolve non-existing file '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.vscode/settings.json')
+	at _handleError (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:156273)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.readFile (/home/user/.vscode-insiders/extensions/ms-toolsai.jupyter-2021.7.935223353/out/client/extension.js:90:501488)
+	at async g.fixSettingsFile (/home/user/.vscode-insiders/extensions/ms-toolsai.jupyter-2021.7.935223353/out/client/extension.js:52:293474)
+	at async Promise.all (index 1)
+	at async g.updateSettings (/home/user/.vscode-insiders/extensions/ms-toolsai.jupyter-2021.7.935223353/out/client/extension.js:52:295194)] {
+  code: 'FileNotFound'
+}
+Info 2021-06-16 14:00:53: Shutting down notebooks for 5a2154f7-9aea-4701-9c87-10af70b2e166
+Info 2021-06-16 14:00:53: Disposing HostJupyterExecution 653d4f8b-592b-4c33-b3fa-d177372ce0e3
+Info 2021-06-16 14:00:53: Disposing super HostJupyterExecution 653d4f8b-592b-4c33-b3fa-d177372ce0e3
+Info 2021-06-16 14:00:53: Disposing HostJupyterExecution 653d4f8b-592b-4c33-b3fa-d177372ce0e3
+Info 2021-06-16 14:00:53: Finished disposing HostJupyterExecution  653d4f8b-592b-4c33-b3fa-d177372ce0e3
+Info 2021-06-16 14:00:53: Disposing HostJupyterExecution 653d4f8b-592b-4c33-b3fa-d177372ce0e3
+Info 2021-06-16 14:00:53: Finished disposing HostJupyterExecution  653d4f8b-592b-4c33-b3fa-d177372ce0e3
+Info 2021-06-16 14:00:53: Getting live share API during dispose HostJupyterExecution 653d4f8b-592b-4c33-b3fa-d177372ce0e3
+Info 2021-06-16 14:00:53: Detaching HostJupyterExecution 653d4f8b-592b-4c33-b3fa-d177372ce0e3
+Info 2021-06-16 14:00:53: Cleaning up server cache 653d4f8b-592b-4c33-b3fa-d177372ce0e3
+Info 2021-06-16 14:00:53: Finished disposing HostJupyterExecution  653d4f8b-592b-4c33-b3fa-d177372ce0e3

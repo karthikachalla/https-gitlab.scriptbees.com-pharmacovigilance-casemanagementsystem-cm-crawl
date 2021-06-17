@@ -1,0 +1,17 @@
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+User belongs to experiment group 'NativeNotebookEditor'
+Info 2021-06-16 14:00:56: ZMQ install verified.
+Info 2021-06-16 14:03:36: Shutting down notebooks for b1d7f417-8ced-4781-bebe-d4850be5d778
+Info 2021-06-16 14:03:36: Disposing HostJupyterExecution 6835f6d7-04db-4b86-8bc6-eca7efe7105c
+Info 2021-06-16 14:03:36: Disposing super HostJupyterExecution 6835f6d7-04db-4b86-8bc6-eca7efe7105c
+Info 2021-06-16 14:03:36: Disposing HostJupyterExecution 6835f6d7-04db-4b86-8bc6-eca7efe7105c
+Info 2021-06-16 14:03:36: Finished disposing HostJupyterExecution  6835f6d7-04db-4b86-8bc6-eca7efe7105c
+Info 2021-06-16 14:03:36: Disposing HostJupyterExecution 6835f6d7-04db-4b86-8bc6-eca7efe7105c
+Info 2021-06-16 14:03:36: Finished disposing HostJupyterExecution  6835f6d7-04db-4b86-8bc6-eca7efe7105c
+Info 2021-06-16 14:03:36: Getting live share API during dispose HostJupyterExecution 6835f6d7-04db-4b86-8bc6-eca7efe7105c
+Info 2021-06-16 14:03:36: Detaching HostJupyterExecution 6835f6d7-04db-4b86-8bc6-eca7efe7105c
+Info 2021-06-16 14:03:36: Cleaning up server cache 6835f6d7-04db-4b86-8bc6-eca7efe7105c
+Info 2021-06-16 14:03:36: Finished disposing HostJupyterExecution  6835f6d7-04db-4b86-8bc6-eca7efe7105c

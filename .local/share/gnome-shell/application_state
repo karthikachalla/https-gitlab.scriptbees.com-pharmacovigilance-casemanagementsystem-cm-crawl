@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="1" last-seen="1623753743"/>
+    <application id="firefox.desktop" open-window-count="1" score="5298" last-seen="1623939833"/>
+    <application id="libreoffice-startcenter.desktop" open-window-count="0" score="0" last-seen="1623772888"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="63" last-seen="1623939831"/>
+    <application id="code-insiders.desktop" open-window-count="1" score="5719" last-seen="1623939761"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1623747335"/>
+    <application id="gedit.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="code.desktop" open-window-count="0" score="879" last-seen="1623832402"/>
+    <application id="google-chrome.desktop" open-window-count="0" score="105" last-seen="1623915440"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="13" last-seen="1623939824"/>
+    <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="code_code.desktop" open-window-count="0" score="1037" last-seen="1623830527"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="1928" last-seen="1623939766"/>
+    <application id="evince.desktop" open-window-count="0" score="15" last-seen="1623766707"/>
+    <application id="org.gnome.Totem.desktop" open-window-count="0" score="1" last-seen="1623818739"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="27" last-seen="1623831258"/>
+    <application id="libreoffice-writer.desktop" open-window-count="0" score="286" last-seen="1623833083"/>
+  </context>
+</application-state>

@@ -1,0 +1,9 @@
+[2021-06-17 19:02:10.778] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /home/user/.vscode-insiders/extensions/ms-toolsai.jupyter-2021.7.935223353
+[2021-06-17 19:02:10.779] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /home/user/.vscode-insiders/extensions/ms-toolsai.jupyter-2021.7.942275039
+[2021-06-17 19:02:10.840] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/user/.vscode-insiders/extensions/ms-python.vscode-pylance-2021.6.2-pre.1
+[2021-06-17 19:02:10.971] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/user/.vscode-insiders/extensions/ms-python.vscode-pylance-2021.6.2
+[2021-06-17 19:02:20.012] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-06-17 19:02:40.017] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-06-17 19:02:40.020] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-06-17 19:02:40.024] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1623930485321.
+[2021-06-17 19:02:50.014] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

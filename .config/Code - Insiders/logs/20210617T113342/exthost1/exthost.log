@@ -1,0 +1,172 @@
+[2021-06-17 11:33:44.151] [exthost] [info] extension host started
+[2021-06-17 11:33:44.318] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-17 11:33:44.318] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-17 11:33:44.355] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-06-17 11:33:44.355] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension
+[2021-06-17 11:33:44.461] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-06-17 11:33:44.461] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/ms-toolsai.jupyter-2021.7.935223353/out/client/extension
+[2021-06-17 11:33:44.689] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-17 11:33:44.690] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-06-17 11:33:44.693] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-17 11:33:44.693] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/git/dist/main
+[2021-06-17 11:33:44.734] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-06-17 11:33:44.734] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-06-17 11:33:45.129] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-17 11:33:45.129] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/github/dist/extension.js
+[2021-06-17 11:33:45.155] [exthost] [info] eager extensions activated
+[2021-06-17 11:33:45.200] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-06-17 11:33:45.200] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-06-17 11:33:45.389] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-06-17 11:33:45.389] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-06-17 11:33:45.398] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-06-17 11:33:45.399] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-06-17 11:33:45.403] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-06-17 11:33:45.403] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-06-17 11:33:45.672] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-17 11:33:45.672] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-17 11:33:45.994] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-06-17 11:33:45.994] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/ms-python.vscode-pylance-2021.6.2-pre.1/dist/extension.bundle.js
+[2021-06-17 11:33:47.479] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-17 11:33:47.479] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-06-17 11:33:47.486] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-17 11:33:47.486] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-06-17 11:33:47.535] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-17 11:33:47.535] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/typescript-language-features/dist/extension
+[2021-06-17 11:33:48.107] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 11:33:48.107] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:149660
+[2021-06-17 11:33:49.363] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2021-06-17 11:33:49.364] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/debug-server-ready/dist/extension
+[2021-06-17 11:34:18.430] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 11:34:18.430] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:145014
+[2021-06-17 11:42:12.908] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2021-06-17 11:42:12.908] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-06-17 11:42:12.924] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-06-17 11:42:12.924] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/markdown-language-features/dist/extension
+[2021-06-17 11:42:13.377] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"api"}
+[2021-06-17 11:42:13.377] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/markdown-math/dist/extension
+[2021-06-17 12:37:41.981] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug2 {"startup":false,"extensionId":{"value":"ms-vscode.node-debug","_lower":"ms-vscode.node-debug"},"activationEvent":"onDebugInitialConfigurations"}
+[2021-06-17 12:37:41.981] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/ms-vscode.node-debug2/out/src/extension
+[2021-06-17 12:37:41.987] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug {"startup":false,"extensionId":{"value":"ms-vscode.node-debug","_lower":"ms-vscode.node-debug"},"activationEvent":"onDebugInitialConfigurations"}
+[2021-06-17 12:37:41.987] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/ms-vscode.node-debug/dist/extension.js
+[2021-06-17 18:11:14.527] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:11:14.527] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:11:14.901] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:11:14.901] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+	at runMicrotasks (<anonymous>)
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+[2021-06-17 18:11:25.637] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:11:25.639] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:11:52.675] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:11:52.675] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:13:34.017] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:13:34.017] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:14:28.290] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:14:28.291] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:14:29.344] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:14:29.344] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:15:46.129] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:15:46.129] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:15:47.237] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:15:47.237] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:18:24.510] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:18:24.510] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:18:48.893] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:18:48.893] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:18:50.357] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:18:50.357] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:34:32.745] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:34:32.745] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:34:33.663] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:34:33.663] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:35:35.794] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:35:35.794] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:144222
+	at async F.resolveCompletionItem (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:172767)
+[2021-06-17 18:35:53.346] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:35:53.346] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:35:54.979] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:35:54.979] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:41:06.789] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:41:06.789] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:42:11.174] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:42:11.175] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:42:34.252] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:42:34.252] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:49:17.866] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:49:17.867] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 18:51:32.340] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-17 18:51:32.341] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-17 19:02:02.342] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-06-17 19:02:03.394] [exthost] [info] exiting with code 0

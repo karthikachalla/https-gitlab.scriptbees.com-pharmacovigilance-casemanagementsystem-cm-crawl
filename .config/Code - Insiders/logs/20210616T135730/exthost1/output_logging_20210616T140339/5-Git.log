@@ -1,0 +1,112 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: /home/user
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/README.md
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/README.md
+> git show --textconv :Public/cm-crawl-master/requirements.txt
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/requirements.txt
+> git show --textconv :README.md
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git cat-file -s a06b6ef6588964e395a2776ba8f99b656a04bd6a
+> git show --textconv :Public/cm-crawl-master/requirements.txt
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/requirements.txt
+> git show --textconv :Public/cm-crawl-master/README.md
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/README.md
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/import logging.config
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/import logging.config
+> git check-ignore -v -z --stdin
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/README.md
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/README.md
+> git show --textconv :Public/cm-crawl-master/import logging.config
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/import logging.config
+> git show --textconv :Public/cm-crawl-master/import logging.config
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/import logging.config
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/import logging.config
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/import logging.config
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/import logging.config
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/import logging.config
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/import logging.config
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/import logging.config
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/README.md
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/README.md
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/tests.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/tests.py
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/tests.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/tests.py
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/tests.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/tests.py
+> git show --textconv :Public/cm-crawl-master/tests.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/tests.py
+> git show --textconv :Public/cm-crawl-master/requirements.txt
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/requirements.txt
+> git show --textconv :Public/cm-crawl-master/import logging.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/import logging.py
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/requirements.txt
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/requirements.txt
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py

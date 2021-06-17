@@ -1,0 +1,5 @@
+[2021-06-16 11:05:08.928] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-06-16 11:05:08.928] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-06-16 11:08:54.177] [renderer1] [error] Failed to execute git
+[2021-06-16 11:08:59.904] [renderer1] [error] Failed to execute git
+[2021-06-16 11:09:18.732] [renderer1] [error] Failed to execute git

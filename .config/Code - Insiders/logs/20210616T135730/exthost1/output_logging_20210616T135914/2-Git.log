@@ -1,0 +1,24 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :README.md
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git cat-file -s a06b6ef6588964e395a2776ba8f99b656a04bd6a
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git rev-parse --git-dir
+Open repository: /home/user
+> git status -z -u
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/user/Public/cm-crawl-master' failed; ex=Canceled: Canceled

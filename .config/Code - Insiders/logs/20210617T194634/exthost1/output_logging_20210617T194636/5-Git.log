@@ -1,0 +1,178 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: /home/user
+> git status -z -u
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/user/Public/cm-crawl-master/emailread.py
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/user/Public/cm-crawl-master/emailread.py
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+fatal: your current branch 'master' does not have any commits yet
+fatal: your current branch 'master' does not have any commits yet
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git show --textconv :repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/user/Public/cm-crawl-master/emailread.py
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de^:README.md
+> git show --textconv aef94fd4f73baca4ce1779e17c645d2272f8b7de:README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git show --textconv :repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git show --textconv :README.md
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git cat-file -s a06b6ef6588964e395a2776ba8f99b656a04bd6a
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/user/Public/cm-crawl-master/emailread.py
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n34 -- /home/user/Public/cm-crawl-master/emailread.py
+fatal: your current branch 'master' does not have any commits yet
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n34 -- /home/user/Public/cm-crawl-master/emailread.py
+fatal: your current branch 'master' does not have any commits yet
+> git check-ignore -v -z --stdin
+> git show --textconv :README.md
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git cat-file -s a06b6ef6588964e395a2776ba8f99b656a04bd6a
+> git show --textconv :log_file.log
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/log_file.log
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :txtfile.log
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/txtfile.log
+> git cat-file -s f6b1e4e430bed74473119d2922a44a22ebc6667c
+> git show --textconv :repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :README.md
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git cat-file -s a06b6ef6588964e395a2776ba8f99b656a04bd6a
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :README.md
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git cat-file -s a06b6ef6588964e395a2776ba8f99b656a04bd6a
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :README.md
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git cat-file -s a06b6ef6588964e395a2776ba8f99b656a04bd6a
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de^ -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git ls-tree -l aef94fd4f73baca4ce1779e17c645d2272f8b7de -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+fatal: Not a valid object name aef94fd4f73baca4ce1779e17c645d2272f8b7de^
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :Public/cm-crawl-master/requirements.txt
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/requirements.txt
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :txtfile.log
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/txtfile.log
+> git cat-file -s f6b1e4e430bed74473119d2922a44a22ebc6667c
+> git show --textconv :README.md
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git cat-file -s a06b6ef6588964e395a2776ba8f99b656a04bd6a
+> git show --textconv :log_file.log
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/log_file.log
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :README.md
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/README.md
+> git cat-file -s a06b6ef6588964e395a2776ba8f99b656a04bd6a
+> git show --textconv :repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git show --textconv :repository
+> git ls-files --stage -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :Public/cm-crawl-master/emailread.py
+> git ls-files --stage -- /home/user/Public/cm-crawl-master/emailread.py
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:repository
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git ls-tree -l HEAD -- /home/user/gittest/https-gitlab.scriptbees.com-pharmacovigilance-casemanagementsystem-cm-crawl/repository
+> git add -A -- .

@@ -1,0 +1,15 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/user
+> git status -z -u
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/user' failed; ex=Canceled: Canceled
+Opening repository for path='/home/user/cm-crawl' failed; ex=spawn git ENOENT {
+  "gitErrorCode": "NotAGitRepository"
+}Error: spawn git ENOENT
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+	at onErrorNT (internal/child_process.js:465:16)
+	at processTicksAndRejections (internal/process/task_queues.js:80:21)
+Open repository: /home/user
+Opening repository for path='/home/user' failed; ex=Canceled: Canceled

@@ -1,0 +1,20 @@
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+Error 2021-06-16 11:09:52: extension activation failed [Error: command 'python.viewOutput' already exists
+	at _.registerCommand (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:106762)
+	at Object.registerCommand (/snap/code/66/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:93:20636)
+	at c.registerCommand (/home/user/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:78:170928)
+	at /home/user/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:52:9825
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async Object.t.activateComponents (/home/user/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:52:8610)
+	at async /home/user/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:29:32981
+	at async t.activate (/home/user/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:29:32627)
+	at async Promise.all (index 0)]
+> conda --version
+Python interpreter path: /usr/bin/python3

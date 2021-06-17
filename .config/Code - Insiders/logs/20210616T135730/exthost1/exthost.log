@@ -1,0 +1,208 @@
+[2021-06-16 13:57:33.055] [exthost] [info] extension host started
+[2021-06-16 13:57:33.165] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-16 13:57:33.165] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-16 13:57:33.193] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-16 13:57:33.194] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-06-16 13:57:33.198] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-16 13:57:33.198] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/git/dist/main
+[2021-06-16 13:57:33.379] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-16 13:57:33.379] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/github/dist/extension.js
+[2021-06-16 13:57:33.407] [exthost] [info] eager extensions activated
+[2021-06-16 13:57:33.407] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-06-16 13:57:33.407] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-06-16 13:57:33.576] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-06-16 13:57:33.576] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-06-16 13:57:33.588] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-06-16 13:57:33.588] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-06-16 13:57:33.591] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-06-16 13:57:33.591] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-06-16 13:57:33.651] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-16 13:57:33.651] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-16 13:57:40.306] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-16 13:57:40.306] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-06-16 13:57:40.312] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-16 13:57:40.312] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-06-16 13:57:40.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-16 13:57:40.369] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/typescript-language-features/dist/extension
+[2021-06-16 13:59:12.812] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-06-16 13:59:13.823] [exthost] [info] exiting with code 0
+[2021-06-16 13:59:14.418] [exthost] [info] extension host started
+[2021-06-16 13:59:14.476] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-16 13:59:14.476] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-16 13:59:14.486] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-16 13:59:14.486] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-06-16 13:59:14.488] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-16 13:59:14.488] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/git/dist/main
+[2021-06-16 13:59:14.626] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-16 13:59:14.626] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/github/dist/extension.js
+[2021-06-16 13:59:14.687] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-06-16 13:59:14.687] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-06-16 13:59:14.791] [exthost] [info] eager extensions activated
+[2021-06-16 13:59:14.798] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-06-16 13:59:14.798] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-06-16 13:59:14.802] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-06-16 13:59:14.802] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-06-16 13:59:14.804] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-06-16 13:59:14.804] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-06-16 13:59:14.819] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-16 13:59:14.820] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-16 13:59:24.022] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2021-06-16 13:59:24.023] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-06-16 13:59:24.051] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-06-16 13:59:24.051] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/markdown-language-features/dist/extension
+[2021-06-16 13:59:24.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"api"}
+[2021-06-16 13:59:24.273] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/markdown-math/dist/extension
+[2021-06-16 13:59:54.589] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-16 13:59:54.589] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-06-16 13:59:54.592] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-16 13:59:54.592] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-06-16 13:59:54.635] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-16 13:59:54.635] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/typescript-language-features/dist/extension
+[2021-06-16 14:00:31.608] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-06-16 14:00:31.608] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/ms-toolsai.jupyter-2021.7.935223353/out/client/extension
+[2021-06-16 14:00:32.304] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2021-06-16 14:00:32.304] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/ms-python.python-2021.5.926500501/out/client/extension
+[2021-06-16 14:00:53.611] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-06-16 14:00:54.627] [exthost] [info] exiting with code 0
+[2021-06-16 14:00:55.444] [exthost] [info] extension host started
+[2021-06-16 14:00:55.743] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-16 14:00:55.743] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-16 14:00:55.753] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-06-16 14:00:55.753] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/ms-toolsai.jupyter-2021.7.935223353/out/client/extension
+[2021-06-16 14:00:55.868] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-16 14:00:55.868] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-06-16 14:00:55.870] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-16 14:00:55.870] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/git/dist/main
+[2021-06-16 14:00:56.133] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-16 14:00:56.133] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/github/dist/extension.js
+[2021-06-16 14:00:56.375] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-06-16 14:00:56.375] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-06-16 14:00:56.576] [exthost] [info] eager extensions activated
+[2021-06-16 14:00:56.635] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-06-16 14:00:56.635] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-06-16 14:00:56.641] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-06-16 14:00:56.641] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-06-16 14:00:56.642] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-06-16 14:00:56.643] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-06-16 14:00:56.676] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-06-16 14:00:56.676] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/ms-python.python-2021.5.926500501/out/client/extension
+[2021-06-16 14:00:56.789] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-16 14:00:56.789] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-16 14:00:57.366] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-06-16 14:00:57.366] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/ms-python.vscode-pylance-2021.6.1/dist/extension.bundle.js
+[2021-06-16 14:01:02.291] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-16 14:01:02.291] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-06-16 14:01:02.293] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-16 14:01:02.293] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-06-16 14:01:02.309] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-16 14:01:02.309] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/typescript-language-features/dist/extension
+[2021-06-16 14:01:06.048] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-06-16 14:01:08.676] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-16 14:01:08.676] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-16 14:01:08.864] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-16 14:01:08.864] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-16 14:01:13.194] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2021-06-16 14:01:13.194] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/debug-server-ready/dist/extension
+[2021-06-16 14:01:46.850] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-16 14:01:46.850] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+[2021-06-16 14:03:36.907] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-06-16 14:03:37.938] [exthost] [info] exiting with code 0
+[2021-06-16 14:03:39.145] [exthost] [info] extension host started
+[2021-06-16 14:03:39.388] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-16 14:03:39.388] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-16 14:03:39.399] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-06-16 14:03:39.399] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension
+[2021-06-16 14:03:39.721] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-06-16 14:03:39.722] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/ms-toolsai.jupyter-2021.7.935223353/out/client/extension
+[2021-06-16 14:03:39.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-16 14:03:39.852] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-06-16 14:03:39.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-16 14:03:39.855] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/git/dist/main
+[2021-06-16 14:03:40.183] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-16 14:03:40.183] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/github/dist/extension.js
+[2021-06-16 14:03:40.275] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-06-16 14:03:40.275] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-06-16 14:03:40.404] [exthost] [info] eager extensions activated
+[2021-06-16 14:03:40.441] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-16 14:03:40.441] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-16 14:03:40.449] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-06-16 14:03:40.449] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-06-16 14:03:40.455] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-06-16 14:03:40.455] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-06-16 14:03:40.456] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-06-16 14:03:40.456] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-06-16 14:03:40.850] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-06-16 14:03:40.850] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/ms-python.vscode-pylance-2021.6.2-pre.1/dist/extension.bundle.js
+[2021-06-16 14:03:47.406] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-06-16 14:03:49.815] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2021-06-16 14:03:49.817] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-06-16 14:03:49.825] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-06-16 14:03:49.825] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/markdown-language-features/dist/extension
+[2021-06-16 14:03:50.161] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"api"}
+[2021-06-16 14:03:50.161] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/markdown-math/dist/extension
+[2021-06-16 14:05:05.647] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-16 14:05:05.647] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-06-16 14:05:05.649] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-16 14:05:05.649] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-06-16 14:05:05.665] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-16 14:05:05.665] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/typescript-language-features/dist/extension
+[2021-06-16 14:07:08.883] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-16 14:07:08.893] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-16 14:07:33.485] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-16 14:07:33.485] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-16 14:07:49.831] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2021-06-16 14:07:49.831] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/debug-server-ready/dist/extension
+[2021-06-16 14:17:25.629] [exthost] [info] ExtensionService#_doActivateExtension DotJoshJohnson.xml {"startup":false,"extensionId":{"value":"DotJoshJohnson.xml","_lower":"dotjoshjohnson.xml"},"activationEvent":"onLanguage:xml"}
+[2021-06-16 14:17:25.629] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/dotjoshjohnson.xml-2.5.1/out/extension
+[2021-06-16 14:17:29.970] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":false,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-06-16 14:17:29.970] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-06-16 15:19:37.660] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-16 15:19:37.661] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:145014
+[2021-06-16 15:44:02.457] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-16 15:44:02.457] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+	at runMicrotasks (<anonymous>)
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+[2021-06-16 15:44:04.155] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-16 15:44:04.155] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:145014
+[2021-06-16 15:45:16.518] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-16 15:45:16.518] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
+[2021-06-16 15:52:35.905] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-16 15:52:35.905] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:149660
+[2021-06-16 16:18:32.438] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-16 16:18:32.439] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184821)
+	at E.handleFailedRequest (/home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:184672)
+	at /home/user/.vscode-insiders/extensions/ms-python.python-2021.7.922878407-dev/out/client/extension.js:9:152533
